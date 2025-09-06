@@ -8,7 +8,7 @@
     "date": "2024-01-15",
     "readTime": "5 min read",
     "category": "Technology",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "date": "2024-01-12",
     "readTime": "7 min read",
     "category": "Design",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "date": "2024-01-10",
     "readTime": "6 min read",
     "category": "Web Development",
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "date": "2024-01-08",
     "readTime": "8 min read",
     "category": "Technology",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2025&q=80"
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=400&fit=crop"
   },
   {
     "id": 5,
@@ -52,6 +52,6 @@
     "date": "2024-01-05",
     "readTime": "9 min read",
     "category": "Programming",
-    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=800&h=400&fit=crop"
   }
 ]
